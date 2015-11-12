@@ -97,11 +97,11 @@
         {squarespace.main-content}
       </div>
 
-      <!-- <aside id="sidebarWrapper">
+      <aside id="sidebarWrapper">
       <div id="sidebar">
         <squarespace:block-field id="sidebarBlocks" label="Sidebar Content" />
       </div>
-      </aside> -->
+      </aside>
 
       </section>
       </div>
